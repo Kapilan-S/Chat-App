@@ -28,7 +28,7 @@ Database (Optional): Firestore / MongoDB (if used)
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/chat-app.git
+git clone https://github.com/Kapilan-s/chat-app.git
 cd chat-app
 
 Install dependencies:
