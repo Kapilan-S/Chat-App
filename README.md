@@ -1,62 +1,8 @@
-# Chat-App
-Chat App is a real-time messaging application built with React, Next.js, HTML, and CSS. It offers a seamless chat experience with a responsive design and fast performance. The app supports real-time messaging, and if implemented, user authentication and database storage.
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-A real-time chat application built using React, Next.js, HTML, and CSS.
+Currently, two official plugins are available:
 
-🚀 Features
-
-Real-time messaging
-
-User authentication (if implemented)
-
-Responsive design
-
-Lightweight and fast performance
-
-🛠️ Tech Stack
-
-Frontend: React, Next.js
-
-Styling: CSS
-
-Backend (Optional): Firebase / Node.js (if used)
-
-Database (Optional): Firestore / MongoDB (if used)
-
-📦 Installation
-
-Clone the repository:
-
-git clone https://github.com/Kapilan-s/chat-app.git
-cd chat-app
-
-Install dependencies:
-
-npm install  # or yarn install 
-
-Start the development server:
-
-npm run dev  # or yarn dev   - to start the frontend
-
-Open http://localhost:5001/ in your browser.
-
-💡 Usage
-
-Open the application and start chatting with users.
-
-If authentication is implemented, create an account and log in.
-
-Enjoy real-time messaging.
-
-🤝 Contributing
-
-Fork the repository.
-
-Create a new branch: git checkout -b feature-branch
-
-Make your changes and commit: git commit -m 'Add new feature'
-
-Push to the branch: git push origin feature-branch
-
-Open a pull request.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
